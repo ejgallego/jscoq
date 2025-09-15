@@ -52,6 +52,11 @@
     "neatjson": "^0.10.6",
     "object-hash": "^3.0.0",
     "@octokit/core": "^7.0.4",
+    "@ocaml-wasm/4.12--janestreet-base": "^0.16.0-0",
+    "@ocaml-wasm/4.12--zarith": "^1.13.0-0",
+    "ocaml-wasm": "file:./etc/pkgs/ocaml-wasm-4.14.0-0.tgz",
+    "wasi-kernel": "^0.1.6"
+  },
     "process": "^0.11.10",
     "proper-lockfile": "^4.1.2",
     "prosemirror-example-setup": "^1.2.3",
